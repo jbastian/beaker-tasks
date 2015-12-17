@@ -14,7 +14,7 @@
 # Author: Jeffrey Bastian
 
 export TEST=/general/misc/fail
-export TESTVERSION=1.0
+export TESTVERSION=1.1
 
 # A phony target is one that is not really the name of a file.
 # It is just a name for some commands to be executed when you
